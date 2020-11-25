@@ -1,1 +1,1 @@
-Create a log
+Create a log with vi
