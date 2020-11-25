@@ -1,2 +1,2 @@
 Create a log with vi
-Halo
+Hello World
